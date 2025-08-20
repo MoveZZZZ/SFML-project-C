@@ -20,8 +20,8 @@ You control a spaceship, fight waves of enemies, collect hearts and shields, and
 ## 🖼️ Screenshots
 *(Replace with your own gameplay screenshots)*  
 
-<img src="Images/menu_bg.jpg" width="400">  
-<img src="Images/player_ship.png" width="200">  
+<img src="Images/main.jpg" width="400">  
+<img src="Images/game.png" width="200">  
 
 ---
 
