@@ -18,8 +18,6 @@ You control a spaceship, fight waves of enemies, collect hearts and shields, and
 ---
 
 ## 🖼️ Screenshots
-*(Replace with your own gameplay screenshots)*  
-
 <p align="center">
   <img src="Images/main.jpg" width="400">
   <img src="Images/game.jpg" width="400">
@@ -36,7 +34,7 @@ You control a spaceship, fight waves of enemies, collect hearts and shields, and
 ## 🔧 Installation & Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/SFML-project-C.git
+   git clone https://github.com/MoveZZZZ/SFML-project-C.git
    cd SFML-project-C-main
    ```
 2. Make sure SFML is installed on your system.  
